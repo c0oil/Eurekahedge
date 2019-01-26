@@ -1,0 +1,173 @@
+[no]	No	; ; ; ;	1
+[yes][ ][...][num][ ][freq][...]	Yes (1 week)	Hard; 1; Weeks; ;	74
+[yes][ ][...][ ][perc][ ][...][ ][freq][...]	Yes (Limit 10% per dealing day)	Soft; ; Days; 10;	2
+[no][ ][...]	No (None)	; ; ; ;	10
+[no][ ][...][num][ ][freq][...]	No (1 year)	Soft; 12; Months; ;	5
+[no][ ][...][freq][...]	No (Quarterly)	Soft; ; Months; ;	1
+[yes][ ][...][ ][num][ ][freq][ ][...]	Yes (Class A: 1 year  Class B: None)	Hard; 12; Months; ;	5
+[yes]	Yes	Hard; ; ; ;	1
+[yes][ ][...][num][ ][freq][...][ ][perc][ ][...]	Yes (1 Year.  Early withdrawal subject to 5% penalty)	Soft; 12; Months; 5;	1
+[yes][ ][...][num][ ][freq][ ][soft][...]	Yes (1 year  soft lock-up)	Soft; 12; Months; ;	38
+[no][ ][...][ ][-][ ][num][ ][freq][ ][...][ ][-][ ][...]	No (Class B - 2 years  Class C - None)	Soft; 24; Months; ;	1
+[yes][ ][...][num][ ][freq][ ][...][ ][num][ ][freq][...]	Yes (3 years & 1 year)	Hard; 36; Months; ;	3
+[yes][ ][...][num][ ][freq][ ][...][-][...]	Yes (4 quarter lock-up)	Hard; 12; Months; ;	13
+[yes][ ][...][num][ ][freq][ ][hard]	Yes (1 year hard lock	Hard; 12; Months; ;	3
+[yes][ ][...][freq][...]	Yes (Annual)	Hard; ; Months; ;	2
+[yes][ ][...][num][ ][freq][ ][...]	Yes (90 days initial lockup	Hard; 90; Days; ;	64
+[yes][ ][...][soft][ ][...][ ][num][ ][freq][...]	Yes (Soft lock after the 12 months)	Soft; 12; Months; ;	13
+[yes][ ][...][num][ ][freq][ ][num][ ][freq][ ][...][ ][num][ ][freq][...]	Yes (1 year  2 years  or 3 years)	Hard; 12; Months; ;	1
+[yes][ ][...][num][-][num][ ][freq][...]	Yes (2-3 years)	Hard; 36; Months; ;	1
+[yes][ ][...][num][ ][freq][ ][soft][ ][-][ ][perc][...]	Yes (1 year soft lock up - 2%)	Soft; 12; Months; 2;	1
+[yes][ ][...][num][ ][...][ ][num][ ][freq][...]	Yes (6 to 12 months)	Hard; 12; Months; ;	7
+[yes][ ][...][num][ ][freq][ ][...][ ][perc][ ][...]	Yes (12 months or 2% fee)	Soft; 12; Months; 2;	1
+[yes][ ][...][num][freq][...]	Yes (50days)	Hard; 50; Days; ;	1
+[yes][ ][...][num][ ][freq][ ][...][-][...][ ][num][ ][freq][ ][...][-][...]	Yes (2 years lock-up for Class B  3 years lock-up for Class C)	Hard; 24; Months; ;	1
+[yes][ ][...][ ][num][ ][...][ ][freq][ ][...]	Yes (December 31 of initial year of investment)	Hard; ; ; ;	1
+[yes][ ][...][num][-][freq][ ][soft][...]	Yes (1-year soft lock)	Soft; 12; Months; ;	3
+[yes][ ][...][num][ ][freq][ ][...][ ][num][ ][num][...]	Yes (1 yr for all for LPs admitted prior to Apr 1  2010)	Hard; 12; Months; ;	1
+[yes][ ][...][num][ ][freq][ ][...][freq][...]	Yes (1 year (calendar year))	Hard; 12; Months; ;	1
+[yes][ ][...][ ][num][ ][freq][...]	Yes (Initial 3 years)	Hard; 36; Months; ;	23
+[yes][ ][...][soft][...]	Yes (soft lock)	Soft; ; ; ;	9
+[no][ ][...][perc][ ][...][ ][num][ ][freq][...]	No (2% redemption for redeeming in first year)	Soft; 12; Months; 2;	2
+[yes][ ][...][freq][ ][...]	Yes (monthly for Class A	Hard; ; Months; ;	1
+[no][ ][...][perc][ ][...][ ][num][ ][num][ ][freq][...]	No (1% fee for withdrawals within the first 6 months)	Soft; 6; Months; 1;	3
+[yes][ ][...][perc][ ][...][ ][freq][...]	Yes (10% redemption limit per month)	Soft; ; Months; 10;	1
+[yes][ ][...][num][ ][freq][ ][...][ ][num][...][ ][num][...]	Yes (2 years (until 30Jun07 and again from 1Jul07))	Hard; 24; Months; ;	1
+[yes][ ][...][num][ ][freq][ ][...][ ][num][ ][...][ ][num][...]	Yes (2 years (from 1 May 2006))	Hard; 24; Months; ;	1
+[no][ ][...][perc][ ][...]	No (20% gate)	Soft; ; ; 20;	4
+[yes][ ][...][perc][ ][...]	Yes (25% investor level gate)	Soft; ; ; 25;	3
+[yes][ ][...][soft][ ][num][ ][freq][ ][...][-][...]	Yes (Soft 1 year lock-up)	Soft; 12; Months; ;	1
+[yes][ ][...][num][-][freq][...]	Yes (1-year)	Hard; 12; Months; ;	1
+[yes][ ][...][perc][ ][...][ ][num][ ][freq][...]	Yes (3% if redeemed within 1st year)	Soft; 12; Months; 3;	5
+[yes][ ][...][num][-][freq][ ][...]	Yes (1-year on Class B	Hard; 12; Months; ;	1
+[yes][ ][...][perc][ ][...][ ][num][ ][num][ ][freq][...]	Yes (3% if redeemed within first 6 months)	Soft; 6; Months; 3;	8
+[yes][ ][...][ ][num][ ][...][ ][num][ ][freq][ ][...][ ][num][ ][...][ ][num][ ][freq][...]	Yes (Class 1 shares: 24 mths / Class 2 shares: 12 mths)	Hard; 24; Months; ;	1
+[yes][ ][...][num][ ][freq][ ][hard][...]	Yes (1 year hard-lock)	Hard; 12; Months; ;	17
+[yes][ ][...][num][ ][freq]	Yes (1 year	Hard; 12; Months; ;	2
+[no][ ][...][no][ ][...][ ][soft][ ][...][ ][num][ ][freq][ ][...]	No (No for Class A. Soft Lockup of 1 year for Class B)	Soft; 12; Months; ;	1
+[yes][ ][...][num][ ][freq][ ][...][soft][...]	Yes (1 Year "soft lock-up")	Soft; 12; Months; ;	6
+[yes][ ][...][soft][ ][-][num][ ][freq][...]	Yes (Soft lock up -1 year)	Soft; 12; Months; ;	1
+[yes][ ][...]	Yes (Discretion of Manager)	Hard; ; ; ;	7
+[yes][ ][...][num][-][freq][ ][...][ ][num][-][freq][ ][...]	Yes (3-year or 5-year Fixed Term)	Hard; 36; Months; ;	1
+[yes][ ][...][num][ ][...][ ][num][ ][freq][ ][...]	Yes (1 or 3 years  depending on share class)	Hard; 36; Months; ;	4
+[yes][ ][...][num][ ][num][ ][freq][ ][...]	Yes (1st 3 months for each investment made)	Hard; 3; Months; ;	1
+[yes][ ][...][num][ ][freq][ ][soft][ ][...][ ][num][ ][freq][ ][hard][ ][...][ ][-][ ][...]	Yes (1 yr soft for A  3 yrs hard for B - Institutional)	Soft; 12; Months; ;	1
+[yes][ ][...][ ][num][...][ ][num][...]	Yes (Until 31st December 2007)	Hard; ; ; ;	1
+[yes][ ][...][num][ ][freq][ ][...][ ][perc][...]	Yes (2 months with a 20%)	Soft; 2; Months; 20;	1
+[yes][ ][...][num][ ][freq][ ][...][ ][num][ ][...]	Yes (6 months from date of first investment)	Hard; 6; Months; ;	3
+[yes][ ][...][ ][-][ ][...][ ][-][ ][num][ ][freq][...]	Yes (Class A/C - Nil / Class B/D - 3 years)	Hard; 36; Months; ;	1
+[yes][ ][...][num][ ][freq][-][hard][ ][...][ ][num][ ][...][ ][num][ ][freq][-][soft][...]	Yes (12 months-hard and 12 to 18 months-soft)	Hard; 12; Months; ;	1
+[yes][ ][...][-][...]	Yes (Optional with reduced fee for lock-up)	Hard; ; ; ;	1
+[yes][ ][...][num][ ][freq][ ][soft][ ][...][ ][freq][ ][...]	Yes (3 year soft lock for quarterly class)	Soft; 36; Months; ;	1
+[yes][ ][...][num][ ][freq][ ][...][ ][num][ ][freq][ ][...]	Yes (60 days initial and 30 days thereafter)	Hard; 60; Days; ;	6
+[yes][ ][...][num][ ][freq][ ][...][ ][num][ ][freq][ ][...][ ][num][ ][freq][ ][...]	Yes (2 year with 90 day notice and 4 quarter payout)	Hard; 24; Months; ;	1
+[yes][ ][...][ ][num][ ][freq][ ][...][ ][num][ ][freq][...]	Yes (class A 3 years  class B 1 year)	Hard; 36; Months; ;	2
+[no][ ][...][num][ ][freq][ ][...]	No (1 year from initial investment)	Soft; 12; Months; ;	1
+[yes][ ][...][num][ ][freq][ ][hard][ ][num][ ][freq][ ][soft][...]	Yes (2 year hard-lock  1 year soft)	Hard; 24; Months; ;	3
+[yes][ ][...][soft][ ][num][ ][freq][ ][...]	Yes (Soft 3 year lock)	Soft; 36; Months; ;	3
+[yes][ ][...][perc][ ][...][ ][freq][ ][num][ ][...][ ][freq][ ][perc][ ][...]	Yes (5% between Year 1 and Year  2% thereafter)	Soft; 12; Months; 5;	1
+[yes][ ][...][ ][num][ ][num][ ][freq][...]	Yes (Staggered liquidity during 1st 8 quarters)	Hard; 24; Months; ;	1
+[yes][ ][...][num][-][freq][ ][hard][...]	Yes (One-year hard lock-up.)	Hard; 12; Months; ;	2
+[yes][ ][...][perc][ ][...][ ][num][ ][freq][ ][...]	Yes (3% early redemption charge in 1st yr of investment)	Soft; 12; Months; 3;	3
+[yes][ ][...][num][ ][freq][ ][soft][ ][...][perc][ ][...]	Yes (1 year soft lock-up (1% early in redemption fee))	Soft; 12; Months; 1;	2
+[yes][ ][...][soft][...][ ][num][ ][freq][...]	Yes (Soft lock-up: 1 year)	Soft; 12; Months; ;	2
+[yes][ ][...][ ][num][-][freq][ ][...][-][...]	Yes (Fixed income investors subject to 1-year lock-up)	Hard; 12; Months; ;	1
+[yes][ ][...][num][ ][num][ ][freq][ ][hard][ ][num][...][ ][num][ ][freq][ ][soft][...]	Yes (1st 6 months hard lock  2nd 6 months soft lock)	Hard; 6; Months; ;	1
+[no][ ][...][ ][num][ ][freq][ ][...][-][...]	No (Fees reduced with a 1 year lock-up)	Soft; 12; Months; ;	1
+[yes][ ][...][num][ ][freq][ ][soft][ ][...][ ][perc][...]	Yes (1 year soft lock-up with 3%)	Soft; 12; Months; 3;	1
+[yes][ ][...][num][ ][freq][ ][soft][ ][...][ ][perc][ ][...]	Yes (1 year soft lock-up with 3% early redemption fee)	Soft; 12; Months; 3;	4
+[yes][ ][...][num][ ][freq][ ][...][ ][-][ ][...]	Yes (1 year from initial investment - A shares only)	Hard; 12; Months; ;	1
+[yes][ ][...][soft][ ][perc][ ][...][ ][num][ ][freq][...]	Yes (Soft Lock-up 2% penalty prior to 1 year)	Soft; 12; Months; 2;	1
+[...][ ][perc]	Directors may limit redemptions of shares > 10%	Soft; ; ; 10;	1
+[yes][ ][...][num][ ][freq][ ][-][ ][...]	Yes (6 months - original investment only)	Hard; 6; Months; ;	1
+[yes][ ][...][ ][num][ ][freq][ ][soft]	Yes (Class B: 12 months soft lock	Soft; 12; Months; ;	1
+[no][ ][...][num][ ][freq][ ][soft][...]	No (6 months soft lock)	Soft; 6; Months; ;	3
+[no][ ][...][ ][num]	No (for Class 1	; ; ; ;	1
+[yes][ ][...][num][ ][freq][ ][soft][ ][...]	Yes (1 year soft lock from initial investment)	Soft; 12; Months; ;	3
+[yes][ ][...][num][ ][freq][ ][-][ ][...][ ][perc][ ][...]	Yes (60 days - subject to 20% gate)	Soft; 60; Days; 20;	1
+[yes][ ][...][perc][ ][...][ ][num][ ][freq]	Yes (10% in the first year	Soft; 12; Months; 10;	1
+[yes][ ][...][num][ ][freq][ ][...][ ][hard][...]	Yes (1 year rolling hard-lock)	Hard; 12; Months; ;	1
+[yes][ ][...][num][ ][num][freq][ ][...][-][...]	Yes (1st 2yrs firm lock-up	Hard; 24; Months; ;	1
+[yes][ ][...][perc][ ][...][ ][num][ ][freq][ ][perc][ ][...][ ][num][-][num][ ][freq][...]	Yes (3% if redeemed in 1st year  1% next 12-24 mths)	Soft; 12; Months; 3;	1
+[yes][ ][...][num][ ][freq][ ][...][ ][freq][...]	Yes (3 months  thereafter monthly)	Hard; 3; Months; ;	1
+[yes][ ][...][perc][ ][...][ ][num][ ][freq][ ][...][-][...]	Yes (5% if redeemed prior to end of 6 month lock-up)	Soft; 6; Months; 5;	1
+[no][ ][...][num][-][freq][ ][soft][ ][...][-][...]	No (2-year soft-lock for the D-shares)	Soft; 24; Months; ;	1
+[yes][ ][...][soft][ ][...][ ][perc][ ][...][ ][num][ ][freq][...]	Yes (Soft Lock-up  Redemption Charge 4.5% within 1st yr)	Soft; 12; Months; ;	1
+[num][ ][freq][ ][hard]	Two year hard-lock	Hard; 24; Months; ;	1
+[yes][ ][...][ ][num][ ][freq][ ][...][-][...]	Yes (Initial 1 year lock-up period)	Hard; 12; Months; ;	3
+[no][ ][...][perc][ ][freq][ ][...]	No (15% monthly gate)	Soft; ; Months; 15;	1
+[no][ ][...][ ][num][ ][freq][...]	No (but penalty if redeemed in one year)	Soft; 12; Months; ;	1
+[yes][ ][...][soft][ ][...]	Yes (Soft lock-up for new investors)	Soft; ; ; ;	1
+[yes][ ][...][num][ ][freq][ ][-][ ][perc][...]	Yes (1 year - 5%)	Soft; 12; Months; 5;	1
+[yes][ ][...][soft][ ][...][ ][num][ ][num][ ][freq][...]	Yes (Soft lock-up after first 12 months)	Soft; 12; Months; ;	2
+[num][ ][freq][ ][soft]	One year soft lock	Soft; 12; Months; ;	1
+[yes][ ][...][freq][ ][num][ ][hard][ ][freq][ ][num][ ][...][ ][num][ ][soft][...]	Yes (year 1 hard lock-up  year 2 & 3 soft lock-up)	Hard; 12; Months; ;	1
+[yes][ ][...][soft][ ][num][ ][freq][...]	Yes (Soft Lock Up 1 Year)	Soft; 12; Months; ;	4
+[no][ ][...][soft][ ][...][ ][num][ ][freq][...]	No (Soft lockup of 1 year)	Soft; 12; Months; ;	2
+[yes][ ][...][num][ ][freq][ ][hard][ ][perc][ ][...][ ][freq][ ][num][-][num][...]	Yes (12 months hard lock  3% penalty in months 13-18)	Hard; 12; Months; 3;	1
+[yes][ ][...][num][ ][freq][ ][...][ ][soft][...]	Yes (12 month initial soft lock-up)	Soft; 12; Months; ;	2
+[yes][ ][...][ ][perc][ ][num][ ][freq]	Yes (Early redemption: 3% 6 months	Soft; 6; Months; 3;	1
+[yes][ ][...][num][ ][freq][ ][soft][...][freq][ ][...]	Yes (1 year soft lock-up/quarterly redemptions)	Soft; 12; Months; ;	1
+[yes][ ][...][perc][ ][...][ ][freq][ ][num]	Yes (50% till year 2	Soft; 24; Months; 50;	1
+[yes][ ][...][num][+][ ][freq][...]	Yes (2+ years)	Hard; 24; Months; ;	1
+[yes][ ][...][num][ ][freq][ ][...][ ][num][ ][freq][ ][soft][...]	Yes (1 year or 2 year soft lock)	Soft; 12; Months; ;	1
+[yes][ ][...][ ][num][ ][freq][ ][...][ ][num][ ][freq][ ][...]	Yes (Full exit in 2 Quarter with 45 day notice)	Hard; 6; Months; ;	1
+[yes][ ][...][soft][ ][...][num][ ][freq][...]	Yes (Soft Lock-up (12 months))	Soft; 12; Months; ;	1
+[yes][ ][...][num][ ][freq][ ][num][ ][freq][ ][...]	Yes (1 year  6 months rolling lock thereafter)	Hard; 12; Months; ;	1
+[no][ ][...][no][...]	No (No)	; ; ; ;	1
+[yes][ ][...][num][ ][freq][ ][hard][ ][...][ ][num][ ][freq][ ][soft][...]	Yes (2 year hard and 1 year soft)	Hard; 24; Months; ;	2
+[yes][ ][...][hard][ ][...][ ][num][ ][freq][ ][soft][ ][...][ ][num][...][ ][freq][...]	Yes (Hard lock for the 1st year  soft-lock for 2nd year)	Hard; 12; Months; ;	1
+[yes][ ][...][num][ ][freq][ ][hard][ ][+][ ][num][ ][freq][ ][soft][...]	Yes (3 months hard + 9 months soft)	Hard; 3; Months; ;	2
+[yes][ ][...][num][ ][freq][ ][soft]	Yes (1 year soft	Soft; 12; Months; ;	2
+[yes][ ][...][num][freq][ ][...]	Yes (2yr rolling)	Hard; 24; Months; ;	1
+[no][ ][...][perc][ ][...][ ][num][ ][freq][ ][perc][ ][...][ ][num][-][num][ ][freq][...]	No (3% if redeemed in 1st year  1% next 12-24 mths)	Soft; 12; Months; 3;	1
+[no][ ][...][perc][ ][...][ ][num][ ][num][ ][freq][ ][perc][ ][...][ ][num][-][num][ ][freq][...]	No (3% in the first 12 months  1% next 12-24 months)	Soft; 12; Months; 3;	1
+[no][ ][...][soft][ ][...][ ][perc][ ][...]	No (Soft-lock with 4% early redemption fee)	Soft; ; ; 4;	1
+[no][ ][...][-][...][ ][num][ ][...][ ][num][-][freq][ ][hard][ ]	No (for Sub-Class 2 : 2-year hard lock-up 	Hard; 24; Months; ;	1
+[yes][ ][...][ ][num][ ][freq][ ][...][ ][perc]	Yes (Less than 6 months = 2%	Soft; 6; Months; 2;	1
+[yes][ ][...][soft][ ][perc][ ][num][ ][freq]	Yes (Soft lock-up  5% 1st year	Soft; 12; Months; 5;	1
+[yes][ ][...][hard][...]	Yes (Hard lock-up)	Hard; ; ; ;	1
+[yes][ ][...][num][ ][freq][ ][soft][...][perc][ ][...]	Yes (One year Soft lock(5% early redemption))	Soft; 12; Months; 5;	1
+[soft][ ][num][ ][freq]	Soft Lock 18 months	Soft; 18; Months; ;	1
+[yes][ ][...][freq][ ][soft][...]	Yes (Annual Soft Lock)	Soft; ; Months; ;	1
+[yes][ ][...][num][ ][num][ ][freq][...]	Yes (First 12 months)	Hard; 12; Months; ;	4
+[yes][ ][...][num][ ][freq][ ][soft][ ][...][ ][num]	Yes (one year soft lock for Class 1	Soft; 12; Months; ;	1
+[yes][ ][...][num][-][freq][ ][hard][ ][...][ ][num][-][freq][ ][soft][...]	Yes (1-year hard lock followed by 2-year soft lock)	Hard; 12; Months; ;	1
+[yes][ ][...][ ][num][ ][freq]	Yes (Class B: 2 years	Hard; 24; Months; ;	3
+[yes][ ][...][hard][ ][...][num][ ][freq][...]	Yes (Hard lock up for seed investors only (3 years))	Hard; 36; Months; ;	1
+[yes][ ][...][num][ ][freq][ ][num][...]	Yes (2 years  1.5x volatility target drawdown trigger)	Hard; 24; Months; ;	1
+[yes][ ][...][num][ ][freq][ ][hard][ ][...]	Yes (12 months hard lock-up period)	Hard; 12; Months; ;	1
+[...]	Not applicable	; ; ; ;	3
+[yes][ ][...][hard][ ][num][ ][freq][...]	Yes (Hard lock-up 12 months)	Hard; 12; Months; ;	1
+[num][ ][freq]	1 year	Hard; 12; Months; ;	1
+[yes][ ][...][num][ ][freq][ ][+][ ][num][ ][+][ ][num][ ][...]	Yes (5 years + 1 + 1  By the Board of Directors decision)	Hard; 60; Months; ;	1
+[...][ ][num][freq]	Series A: 1yr	Hard; 12; Months; ;	1
+[yes][ ][...][ ][no]	Yes (Class A: No	Hard; ; ; ;	1
+[no][ ][...][ ][num][-][freq][ ][...][-][...]	No (Only Class B shares have one-year lock-up)	Soft; 12; Months; ;	1
+[yes][ ][...][ ][num][ ][freq][ ][hard][...]	Yes (Rolling 1 Year Hard Lock)	Hard; 12; Months; ;	2
+[yes][ ][...][soft][ ][perc][ ][...][ ][num][ ][freq][ ][perc][ ][...][ ][num][...][ ][num][...][ ][freq][...]	Yes (Soft lock-up  2% if redeemed within 6 calendar months  1% within 7th to 12th calendar months.)	Soft; 6; Months; 2;	1
+[yes][ ][...][ ][perc][ ][...][ ][num][ ][freq][ ][...]	Yes (Redemption fee of 3% within 6 months lock up period)	Soft; 6; Months; 3;	1
+[yes][ ][...][num][ ][freq][...][ ][num][...][num][ ][...][ ][freq][...]	Yes (2 years. In the interim investors may redeem up to 1/8 of their original investment each quarter.)	Hard; 24; Months; ;	1
+[num][ ][freq][ ][...]	6 month lock up	Hard; 6; Months; ;	1
+[yes][ ][...][num][ ][freq][ ][hard][ ][...][ ][freq][ ][...][ ][num][ ][freq][ ][hard][ ][...][ ][freq][ ][soft][ ][...][ ][perc][ ][...]	Yes (2 years hard lock followed by quarterly redemptions thereafter or 1 year hard lock  followed by second year soft lock with 5% redemption penalty)	Hard; 24; Months; 5;	1
+[yes][ ][...][ ][num][ ][...][ ][num][ ][freq][...]	Yes (Alternatives range from 2 to 5 years)	Hard; 60; Months; ;	1
+[yes][ ][...][num][ ][freq][ ][soft][ ][...][perc][...]	Yes (Six month soft lock (1%))	Soft; 6; Months; 1;	1
+[yes][ ][...][num][ ][freq][ ][soft][ ][perc][ ][...]	Yes (6 months soft lockup  4% redemption penalty)	Soft; 6; Months; 4;	1
+[...][ ][no][ ][soft]	Class A: no soft lock	Soft; ; ; ;	1
+[yes][ ][...][ ][num][...]	Yes (until January 2020)	Hard; ; ; ;	1
+[yes][ ][...][num][ ][freq][...][ ][soft][...]	Yes (1 Year, soft lock)	Soft; 12; Months; ;	2
+[no][ ][...][ ][num][...][ ][num][...]	No (Closed until December 31, 2009)	; ; ; ;	1
+[yes][ ][...][num][+][ ][freq][ ][...]	Yes (1+ year from option tranche date)	Hard; 12; Months; ;	1
+[no][ ][...][perc][ ][...][ ][num][ ][freq][ ][...]	No (2% penalty in 1st yr for early redemption)	Soft; 12; Months; 2;	2
+[yes][ ][...][ ][num][ ][...][ ][num][...]	Yes (until 31 Dec 2006)	Hard; ; ; ;	1
+[yes][ ][...][hard][ ][...][ ][num][ ][freq][...]	Yes (Hard lockup of 36 months)	Hard; 36; Months; ;	1
+[yes][ ][...][num][ ][freq][...][ ][num][ ][freq][...]	Yes (3 years, extensible to 6 years)	Hard; 36; Months; ;	1
+[yes][ ][...][num][ ][freq][ ][hard][...][ ][num][ ][freq][ ][soft][...]	Yes (6 months hard, 6 months soft)	Hard; 6; Months; ;	1
+[yes][ ][...][num][ ][freq][...][ ][perc][ ][...][ ][num][...]	Yes (3 years, 15% may be redeemed on 2nd Anniversary)	Soft; 36; Months; 15;	1
+[yes][ ][...][num][ ][freq][ ][-][ ][soft][...]	Yes (1 year - soft)	Soft; 12; Months; ;	1
+[yes][ ][...][freq][ ][num][ ][soft][ ][...][ ][perc][ ][...][ ][perc][ ][...]	Yes (Year 1 soft with 4% redemption fee,  0% thereafter)	Soft; 12; Months; 4;	1
+[yes][ ][...][ ][num][-][freq][ ][...]	Yes (Each contribution subject to a one-year lockup	Hard; 12; Months; ;	1
+[yes][ ][...][perc][ ][...][ ][num][ ][freq][...][ ][perc][ ][...][ ][num][ ][freq][ ][...][ ][num][ ][freq][...][ ][perc][ ][...][ ][num][ ][freq][...]	Yes (2% before 12 months, 1% between 12 months and 24 months, 0% after 24 months)	Soft; 12; Months; 2;	1
+[yes][ ][...][num][ ][freq][ ][soft][...][ ][perc][ ][...][ ][num][ ][num][ ][freq][ ][...][ ][perc][ ][...][ ][num][ ][freq][...]	Yes (1 year soft lock-up, 2% within the first 6 months and 1% subsequent 6 months)	Soft; 12; Months; 2;	1
+[yes][ ][...][ ][yes][ ][...][num][ ][freq][...]	Yes (Class A: None; Class B: Yes (1 year))	Hard; 12; Months; ;	1
+[yes][ ][...][ ][no][...][ ][yes][ ][...][num][ ][freq][...]	Yes (Class A: No; Class B: Yes (1 year))	Soft; 12; Months; ;	1
